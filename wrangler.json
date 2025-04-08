@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "projectflow",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4b9894ca-b674-443d-9dd9-d13565b93642",
+      "database_name": "ProjectFlow_D1_DB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
